@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora\CalculadoraApp\bin\Debug\CalculadoraApp.exe.config
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora\CalculadoraApp\bin\Debug\CalculadoraApp.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora\CalculadoraApp\bin\Debug\CalculadoraApp.pdb
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora\CalculadoraApp\obj\Debug\CalculadoraApp.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora\CalculadoraApp\obj\Debug\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora\CalculadoraApp\obj\Debug\CalculadoraApp.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora\CalculadoraApp\obj\Debug\CalculadoraApp.pdb
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora-POO\CalculadoraApp\bin\Debug\CalculadoraApp.exe.config
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora-POO\CalculadoraApp\bin\Debug\CalculadoraApp.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora-POO\CalculadoraApp\bin\Debug\CalculadoraApp.pdb
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora-POO\CalculadoraApp\obj\Debug\CalculadoraApp.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora-POO\CalculadoraApp\obj\Debug\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora-POO\CalculadoraApp\obj\Debug\CalculadoraApp.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\POO\Calculadora-POO\CalculadoraApp\obj\Debug\CalculadoraApp.pdb
